@@ -1,0 +1,27 @@
+body{
+font-family: Arial, Helvetica, sans-serif ;
+line-height: 1.6;
+background-image:url();
+
+}
+
+fieldset{
+
+  margin-bottom: 15px;
+}
+
+input,select,textarea{
+
+width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  border: 1px solid #000;
+
+}
+
+input[type="submit"] {
+  padding: 10px;
+  border: 1px solid #000;
+  background: gray; 
+  cursor: pointer;
+}
